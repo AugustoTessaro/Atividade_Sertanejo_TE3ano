@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#musica{
+    background-color: lightgrey;
+    padding: 50px;
+    width: 20%;
+    margin-left: 37%;
+}
+
+#musica p:hover{
+    color: red;
+}
+
+#musica h1{
+    margin-bottom: -10px;
+}
